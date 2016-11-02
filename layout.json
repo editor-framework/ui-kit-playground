@@ -1,0 +1,12 @@
+{
+  "type": "dock-v",
+  "children": [
+    {
+      "type": "panel",
+      "active": 0,
+      "children": [
+        "ui-kit-preview"
+      ]
+    }
+  ]
+}
